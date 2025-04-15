@@ -1,0 +1,13 @@
+These are the historical satinfo files that should be used with retrospective
+FV3 Beta runs.  Dates refer to the first cycle for which the file should be used.
+
+global_ozinfo.txt is the base ozinfo file, i.e., the one that should be
+implemented
+
+global_ozinfo.txt.2015110500 - operational gsi.v5.0.5
+
+global_ozinfo.txt.2018110700 - place SBUV8 in monitor, assimilate OMPS
+
+global_ozinfo.txt.2020011600 - turn off OMPS (bad data period)
+
+global_ozinfo.txt.2020011806 - turn on OMPS (OMPS data problem fixed)

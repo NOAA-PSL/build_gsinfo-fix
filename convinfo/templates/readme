@@ -1,0 +1,7 @@
+2000072000: turn on uv 285
+2001051900: turn on gps 041
+2007103100: turn off uv 286
+2008022900: turn off gps 041
+2009100700: turn off uv 285
+2009111900: turn off spd 283
+2013041500-: use versioned operational satinfo files
