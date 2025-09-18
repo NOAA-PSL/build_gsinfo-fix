@@ -9,6 +9,13 @@
    prepbufr       pw          null        pw                  0.0     0     0
    prepbufr       uv          null        uv                  0.0     0     0
    prepbufr_profl uv          null        uv                  0.0     0     0
+   wbbufr         t           null        t                   0.0     0     0
+   wbbufr         q           null        q                   0.0     0     0
+   wbbufr         uv          null        uv                  0.0     0     0
+   sdbufr         ps          null        ps                  0.0     0     0
+   sdbufr         t           null        t                   0.0     0     0
+   sdbufr         q           null        q                   0.0     0     0
+   sdbufr         uv          null        uv                  0.0     0     0
    satwndbufr     uv          null        uv                  0.0     0     0
    hdobbufr       uv          null        uv                  0.0     0     0
    prepbufr       spd         null        spd                 0.0     0     0

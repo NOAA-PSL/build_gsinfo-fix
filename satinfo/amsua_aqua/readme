@@ -6,3 +6,4 @@
 aqua  20021012 000000  20071102 120000  amsua  14 1 2 3 4 5 6   8 9 10 11 12 13 14 15
 aqua  20071102 180000  20160923 120000  amsua   8           6   8 9 10 11 12 13 14    # ch4 noisy; QC affected ; turn off ch1-5,15
 aqua  20160923 180000  21001231 240000  amsua   0                                     # chs1-2 detector failure, turn off
+last file from NASA 2023020112

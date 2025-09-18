@@ -1,9 +1,12 @@
 abi_g16
 abi_g17
 abi_g18
+abi_g19
 ahi_himawari8
 ahi_himawari9
 airs_aqua
+amsre_aqua
+amsr2_gcom-w1
 amsua_aqua
 amsua_metop-a
 amsua_metop-b
@@ -94,3 +97,6 @@ ssu_n08
 ssu_n09
 ssu_n11
 ssu_n14
+viirs-m_npp
+viirs-m_j1
+viirs-m_j2
