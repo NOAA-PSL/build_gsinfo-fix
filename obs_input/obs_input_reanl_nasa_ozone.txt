@@ -123,14 +123,14 @@
    hirs4bufr      hirs4       metop-a     hirs4_metop-a       0.0     1     1
    hirs4bufr      hirs4       metop-b     hirs4_metop-b       0.0     1     0
    amsuabufr      amsua       metop-a     amsua_metop-a       0.0     1     1
-   amsuabufr      amsua       metop-b     amsua_metop-b       0.0     1     0
-   amsuabufr      amsua       metop-c     amsua_metop-c       0.0     1     0
+   amsuabufr      amsua       metop-b     amsua_metop-b       0.0     1     1
+   amsuabufr      amsua       metop-c     amsua_metop-c       0.0     1     1
    mhsbufr        mhs         metop-a     mhs_metop-a         0.0     1     1
-   mhsbufr        mhs         metop-b     mhs_metop-b         0.0     1     0
-   mhsbufr        mhs         metop-c     mhs_metop-c         0.0     1     0
+   mhsbufr        mhs         metop-b     mhs_metop-b         0.0     1     1
+   mhsbufr        mhs         metop-c     mhs_metop-c         0.0     1     1
    iasibufr       iasi        metop-a     iasi_metop-a        0.0     1     1
-   iasibufr       iasi        metop-b     iasi_metop-b        0.0     1     0
-   iasibufr       iasi        metop-c     iasi_metop-c        0.0     1     0
+   iasibufr       iasi        metop-b     iasi_metop-b        0.0     1     1
+   iasibufr       iasi        metop-c     iasi_metop-c        0.0     1     1
    gomebufr       gome        metop-a     gome_metop-a        0.0     2     0
    gomebufr       gome        metop-b     gome_metop-b        0.0     2     0
    gomebufr       gome        metop-c     gome_metop-c        0.0     2     0
@@ -161,9 +161,6 @@
    abibufr        abi         g18         abi_g18             0.0     1     0
    abibufr        abi         g19         abi_g19             0.0     1     0
    rapidscatbufr  uv          null        uv                  0.0     0     0
-   amsuabufr      amsua       metop-c     amsua_metop-c       0.0     1     1
-   mhsbufr        mhs         metop-c     mhs_metop-c         0.0     1     1
-   iasibufr       iasi        metop-c     iasi_metop-c        0.0     1     1
 !--ozone bufr dumps
 !  mlsbufr        mls30       aura        mls30_aura          0.0     0     0
 !  ompsnpbufr     ompsnp      npp         ompsnp_npp          0.0     0     0
