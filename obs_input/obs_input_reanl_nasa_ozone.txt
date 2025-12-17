@@ -69,6 +69,8 @@
    amsuabufr      amsua       n16         amsua_n16           0.0     1     1
    amsuabufr      amsua       n17         amsua_n17           0.0     1     1
    amsuabufr      amsua       n18         amsua_n18           0.0     1     1
+!  airsbufr       amsua       aqua        amsua_aqua          0.0     1     1
+! NASA has aqua amsua in a separate file
    aquabufr       amsua       aqua        amsua_aqua          0.0     1     1
    amsubbufr      amsub       n15         amsub_n15           0.0     1     1
    amsubbufr      amsub       n16         amsub_n16           0.0     1     1
@@ -119,7 +121,7 @@
    seviribufr     seviri      m08         seviri_m08          0.0     1     0
    seviribufr     seviri      m09         seviri_m09          0.0     1     0
    seviribufr     seviri      m10         seviri_m10          0.0     1     0
-   seviribufr     seviri      m10         seviri_m11          0.0     1     0
+   seviribufr     seviri      m11         seviri_m11          0.0     1     0
    hirs4bufr      hirs4       metop-a     hirs4_metop-a       0.0     1     1
    hirs4bufr      hirs4       metop-b     hirs4_metop-b       0.0     1     0
    amsuabufr      amsua       metop-a     amsua_metop-a       0.0     1     1
@@ -131,6 +133,9 @@
    iasibufr       iasi        metop-a     iasi_metop-a        0.0     1     1
    iasibufr       iasi        metop-b     iasi_metop-b        0.0     1     1
    iasibufr       iasi        metop-c     iasi_metop-c        0.0     1     1
+   sstviirs       viirs-m     npp         viirs-m_npp         0.0     4     0
+   sstviirs       viirs-m     j1          viirs-m_j1          0.0     4     0
+   sstviirs       viirs-m     j2          viirs-m_j2          0.0     4     0
    gomebufr       gome        metop-a     gome_metop-a        0.0     2     0
    gomebufr       gome        metop-b     gome_metop-b        0.0     2     0
    gomebufr       gome        metop-c     gome_metop-c        0.0     2     0
@@ -141,18 +146,18 @@
    crisfsbufr     cris-fsr    npp         cris-fsr_npp        0.0     1     0
    crisfsbufr     cris-fsr    n20         cris-fsr_n20        0.0     1     0
    crisfsbufr     cris-fsr    n21         cris-fsr_n21        0.0     1     0
-   avhambufr      avhrr       n15         avhrr3_n15          0.0     1     0
-   avhambufr      avhrr       n17         avhrr3_n17          0.0     1     0
-   avhambufr      avhrr       metop-a     avhrr3_metop-a      0.0     1     0
-   avhambufr      avhrr       metop-b     avhrr3_metop-b      0.0     1     0
-   avhambufr      avhrr       metop-c     avhrr3_metop-c      0.0     1     0
-   avhpmbufr      avhrr       n14         avhrr2_n14          0.0     1     0
-   avhpmbufr      avhrr       n16         avhrr3_n16          0.0     1     0
-   avhpmbufr      avhrr       n18         avhrr3_n18          0.0     1     0
-   avhpmbufr      avhrr       n19         avhrr3_n19          0.0     1     0
+   avhambufr      avhrr       n15         avhrr3_n15          0.0     4     0
+   avhambufr      avhrr       n17         avhrr3_n17          0.0     4     0
+   avhambufr      avhrr       metop-a     avhrr3_metop-a      0.0     4     0
+   avhambufr      avhrr       metop-b     avhrr3_metop-b      0.0     4     0
+   avhambufr      avhrr       metop-c     avhrr3_metop-c      0.0     4     0
+   avhpmbufr      avhrr       n14         avhrr2_n14          0.0     4     0
+   avhpmbufr      avhrr       n16         avhrr3_n16          0.0     4     0
+   avhpmbufr      avhrr       n18         avhrr3_n18          0.0     4     0
+   avhpmbufr      avhrr       n19         avhrr3_n19          0.0     4     0
    oscatbufr      uv          null        uv                  0.0     0     0
    amsr2bufr      amsr2       gcom-w1     amsr2_gcom-w1       0.0     3     0
-   gmibufr        gmi         gpm         gmi_gpm             0.0     3     0
+   gmibufr        gmi         gpm         gmi_gpm             0.0     1     0
    saphirbufr     saphir      meghat      saphir_meghat       0.0     3     0
    ahibufr        ahi         himawari8   ahi_himawari8       0.0     1     0
    ahibufr        ahi         himawari9   ahi_himawari9       0.0     1     0
