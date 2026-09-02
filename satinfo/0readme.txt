@@ -10,5 +10,6 @@ Summary of changes in historical files (see also https://github.com/NOAA-EMC/GSI
 | global_satinfo.txt.2023121812 | N21 CrIS & ATMS; G18  ABI; HIM-9 AHI ||
 | global_satinfo.txt.2025081312 | GOES-19 ABI; GPM GMI* | |
 | global_satinfo.txt.2026063012 | Remove Metop-C AMSU-A Ch8 | |
+| global_satinfo.txt.2026081712 | Remove Metop-C AMSU-A Ch1-6 and 15 | |
 
 *Not in operations

@@ -16,3 +16,4 @@ Summary of changes in historical files (see also https://github.com/NOAA-EMC/GSI
 | 2024120912 | Planet-IQ GPSRO  |
 | 2025032512 | Turn on GOES 17 AMVs |
 | 2025081312 | Windborne; Saildrone; GRACE-C/-D |
+| 2026063012 | Sentinal 6a; PlanetiQ YAM-8 |
