@@ -1,5 +1,10 @@
 # f08 85V channel (7) getting very bad mid 1988, unusable after 1/1989
 # f08 85H channel (6) going bad Mar-Nov 1990, unusable after 1/1991
+# Per Jack Woollen: assimilating channels 1-5 throughout 1988-1991 is reasonable;
+# channels 6 and 7 are set to iuse=-1 (monitor only) starting 19880208 based on a combination
+# ERA5 usage and previous satinfo/ssmi_f08 settings.
+# In ERA5, Channel 6 was assimilated until April 1988, then ignored.
+# In ERA5, Channel 7 was monitored until April 1988, then ignored.
 f08  19870710 000000  19880207 240000  ssmi 2   3 4 
 f08  19880208 000000  19901231 240000  ssmi 2   3 4 
 f08  19910101 000000  19911204 240000  ssmi 2   3 4 
