@@ -3,6 +3,7 @@
 # Per Jack Woollen: assimilating channels 1-5 throughout 1988-1991 is reasonable;
 # channels 6 and 7 are set to iuse=-1 (monitor only) starting 19880208 based on a combination
 # ERA5 usage and previous satinfo/ssmi_f08 settings.
+# Data are from CMSAF Fundamental Climate Data Record of Microwave Imager Radiances, Edition 3 (SSM/I data) from EUMETSAT
 # In ERA5, Channel 6 was assimilated until April 1988, then ignored.
 # In ERA5, Channel 7 was monitored until April 1988, then ignored.
 f08  19870710 000000  19880207 240000  ssmi 2   3 4 
