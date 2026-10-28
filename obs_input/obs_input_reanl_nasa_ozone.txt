@@ -166,6 +166,7 @@
    abibufr        abi         g18         abi_g18             0.0     1     0
    abibufr        abi         g19         abi_g19             0.0     1     0
    rapidscatbufr  uv          null        uv                  0.0     0     0
+   mwsbufr        mws         metop-sg-a1 mws_metop-sg-a1     0.0     1     1
 !--ozone bufr dumps
 !  mlsbufr        mls30       aura        mls30_aura          0.0     0     0
 !  ompsnpbufr     ompsnp      npp         ompsnp_npp          0.0     0     0
